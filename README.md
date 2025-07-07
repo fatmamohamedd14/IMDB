@@ -23,7 +23,7 @@ The bot performs the following steps:
 ## 📁 Files Included
 - `Main.xaml` – Main workflow
 - `GetMovieData.xaml` – Logic for scraping movie info
-- Screenshots (optional)
+- Screenshots 
 - README.md
 
 ## ✅ Status
